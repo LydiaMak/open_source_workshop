@@ -1,1 +1,3 @@
-# open_source_workshop
+README
+
+This is a README file.
