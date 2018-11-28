@@ -1,5 +1,5 @@
-README
+# README file
 
 This is a README file.
 
-Add another line!
+Workshop on open source.
