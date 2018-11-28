@@ -2,6 +2,4 @@
 
 This is a README file.
 
-Add another line!
-
-Online change.
+Workshop on open source.
