@@ -1,6 +1,4 @@
-README
-
-# My README file
+# README file
 
 This is a README file.
 
